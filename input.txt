@@ -1,0 +1,38 @@
+{ 4000, 2000, 4000 }, { Salt, RockSalt, Saltpeter }, Endstone, 30, 120, 1, 250, 20, 1, 10 * 20, VP[4], LV, IV, 300
+{ 4000, 2000, 2000, 1000, 1000 }, { Iron, Magnetite, Pyrite, BasalticMineralSand, GraniticMineralSand }, Endstone, 30, 150, 1, 180, 10, 1, 10 * 20, VP[4], LV, ZPM, 600
+{ 5000, 3000, 2000 }, { Copper, Chalcopyrite, Malachite }, Endstone, 30, 150, 3, 12, 10, 1, 10 * 20, VP[4], LV, LuV, 500
+{ 2000, 2000, 6000 }, { Cassiterite, CassiteriteSand, Tin }, Endstone, 50, 200, 2, 100, 10, 1, 50, VP[5], LV, IV, 400
+{ 5000, 3500, 1500 }, { Aluminium, Bauxite, Rutile }, Endstone, 10, 20, 5, 20, 20, 1, 50, VP[5], MV, EV, 120
+{ 4000, 3000, 3000 }, { Nickel, Pentlandite, Garnierite }, Endstone, 20, 40, 5, 20, 20, 1, 50, VP[5], LV, IV, 170
+{ 5000, 3000, 2000 }, { Chrome, Ruby, Chromite }, Endstone, 16, 32, 10, 20, 40, 1, 50, VP[6], MV, LuV, 100
+{ 6000, 2000, 1500, 500 }, { Platinum, Palladium, Iridium, Osmium }, Endstone, 20, 40, 10, 50, 60, 1, 50, VP[6], HV, ZPM, 130
+{ 3800, 2000, 1500, 500, 1200, 1000 }, { Platinum, Palladium, Iridium, Osmium, Ruthenium, Rhodium }, Dust, 10, 30, 25, 200, 360, 3, 500, VP[7], ZPM, UEV, 60
+{ 1500, 1500, 1500, 1500, 1500, 1500, 500, 400, 100 }, { Ruby, Emerald, GreenSapphire, Diamond, Opal, Topaz, Bauxite, Vinteum, NetherStar }, Endstone, 30, 160, 17, 40, 60, 1, 100, VP[6], LV, LuV, 180
+{ 7000, 2000, 1000 }, { Indium, Sphalerite, Zinc }, Endstone, 30, 120, 50, 90, 120, 2, 500, VP[6], IV, UEV, 170
+{ 3500, 3500, 500, 500, 500, 500, 500, 500 }, { InfusedGold, Shadow, InfusedAir, InfusedEarth, InfusedFire, InfusedWater, InfusedEntropy, InfusedOrder }, Endstone, 24, 60, 8, 24, 120, 1, 100, VP[6], HV, LuV, 200
+{ 8000, 2000 }, { MysteriousCrystal, Mytryl }, Endstone, 30, 60, 65, 120, 300, 2, 500, VP[7], IV, UEV, 220
+{ 3000, 2000, 1500, 3500 }, { Niobium, Quantium, Ytterbium, Yttrium }, Endstone, 30, 120, 30, 160, 120, 2, 25 * 20, VP[6], IV, UHV, 160
+{ 4000, 3500, 2500 }, { Quartzite, Quartz, Vanadium }, Endstone, 20, 80, 20, 120, 50, 1, 25 * 20, VP[5], MV, ZPM, 230
+{ 1500, 1500, 1500, 5500 }, { Tellurium, Thulium, Tantalum, Redstone }, Endstone, 20, 80, 40, 240, 90, 2, 25 * 20, VP[6], IV, UHV, 100
+{ 3000, 2000, 3500, 1500 }, { Graphite, Mica, Silicon, SiliconSG }, Endstone, 20, 80, 50, 250, 60, 2, 25 * 20, VP[6], HV, LuV, 200
+{ 1500, 2000, 3000, 3500 }, { Trinium, Lanthanum, Orundum, Silver }, Stone, 30, 120, 30, 230, 120, 2, 25 * 20, VP[6], IV, UEV, 150
+{ 4000, 3000, 3000 }, { Magnesium, Manganese, Fluorspar }, Stone, 10, 80, 10, 200, 60, 1, 20 * 20, VP[5], EV, UHV, 250
+{ 4500, 2500, 3000 }, { Phosphate, TricalciumPhosphate, Sulfur }, Endstone, 20, 150, 60, 250, 60, 1, 25 * 20, VP[6], IV, UEV, 150
+{ 100, 2200, 4700, 3000 }, { Dilithium, Orundum, Vanadium, Ytterbium }, Stone, 5, 80, 20, 100, 120, 3, 25 * 20, VP[6], UEV, UEV, 50
+{ 3000, 2500, 2500, 2000 }, { Lead, Arsenic, Barium, Lepidolite }, Endstone, 30, 100, 5, 150, 20, 1, 25 * 20, VP[4], LV, UV, 220
+{ 3500, 2500, 2500, 1500 }, { Adamantium, Antimony, Gallium, Lithium }, Endstone, 30, 120, 5, 120, 20, 1, 25 * 20, VP[4], EV, ZPM, 300
+{ 3750, 3750, 2500 }, { Tungsten, Titanium, Neodymium }, Endstone, 30, 70, 60, 200, 120, 2, 25 * 20, VP[6], LV, LV, 100
+{ 6000, 2000, 2000 }, { Lapis, Lazurite, Sodalite }, Endstone, 10, 50, 20, 200, 60, 1, 25 * 20, VP[5], HV, UV, 250
+{ 3500, 1500, 2500, 2500 }, { Aluminium, Bauxite, Monazite, Bastnasite }, Endstone, 10, 80, 40, 120, 60, 1, 25 * 20, VP[5], MV, ZPM, 250
+{ 6500, 2500, 1000 }, { Draconium, DraconiumAwakened, ElectrumFlux }, Endstone, 15, 60, 60, 200, 360, 2, 30 * 20, VP[6], LuV, UHV, 190
+{ 4000, 3500, 2500 }, { Naquadah, EnrichedNaquadah, Naquadria }, Stone, 20, 80, 50, 150, 240, 2, 50 * 20, VP[6], IV, UV, 200
+{ 3000, 2500, 2500, 2000 }, { Uranium, Uranium235, Plutonium, Plutonium241 }, Endstone, 20, 90, 30, 70, 120, 1, 20 * 20, VP[6], HV, ZPM, 150
+{ 10000 }, { Cheese }, Endstone, 1, 30, 90, 200, 240, 2, 50 * 20, VP[7], IV, UEV, 10
+{ 3750, 3750, 2500 }, { Cobalt, Ardite, Manyullyn }, Stone, 20, 90, 30, 100, 180, 1, 50 * 20, VP[5], EV, UHV, 150
+{ 2000, 4000, 4000 }, { Europium, Ledox, CallistoIce }, Endstone, 10, 30, 40, 60, 240, 2, 50 * 20, VP[7], ZPM, UEV, 100
+{ 2000, 3000, 3000, 2000 }, { Holmium, Samarium, Tiberium, Strontium }, Stone, 5, 25, 40, 80, 260, 2, 25 * 20, VP[6], UV, UEV, 75
+{ 2500, 2500, 2500, 2500 }, { CosmicNeutronium, Neutronium, BlackPlutonium, Bedrockium }, Endstone, 10, 70, 60, 100, 240, 2, 500, VP[8], ZPM, UEV, 170
+{ 5000, 3000, 2000 }, { InfinityCatalyst, CosmicNeutronium, Neutronium }, Endstone, 30, 120, 70, 100, 320, 2, 1000, VP[8], UV, UEV, 150
+{ 5000, 3000, 2000 }, { ShadowIron, MeteoricIron, Ichorium }, Endstone, 30, 120, 70, 100, 320, 3, 1000, VP[8], UV, UEV, 150
+{ 10000 }, { Clay }, Block, 30, 60, 20, 100, 30, 1, 40 * 20, VP[5], LV, LuV, 200
+{ 100, 100, 9800 }, { Draconic Core Schematic, Draconic Core, Zero Point Module }, Item, 1, 1, 50, 200, 1000, 3, 100 * 20, VP[10], UHV, UEV, 1
